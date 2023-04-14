@@ -1,0 +1,15 @@
+body{
+    background-color:lightblue;
+}
+.input{
+    text-align: center;
+}
+.App{
+    text-align: center;
+}
+.valid{
+    font-size:10px;
+}
+.invalid{
+    font-size:10px;
+}
